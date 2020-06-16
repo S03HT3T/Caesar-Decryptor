@@ -12,7 +12,7 @@ print("		#            By SO3HT3T  #")
 print("		##########################\n")
 
 
-words = input("{}ennter your string :: {}".format(c,Green))
+words = input("{}Eter Your String :: {}".format(c,Green))
 final = ""
 for i in range(1,26):
 	for word in words:
